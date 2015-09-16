@@ -5,7 +5,7 @@ A basic web application setup kit with Flask, Postgres, jQuery,  Backbone, Boots
 
 ### Running the server
 ```
-$ python app.py // Runs the server
+$ python app.py  //Runs the server, just navigate to **http://127.0.0.1:5000**
 ```
 
 ### Flask
