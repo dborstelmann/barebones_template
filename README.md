@@ -3,6 +3,11 @@ A basic web application setup kit with Flask, Postgres, jQuery,  Backbone, Boots
 
 > NOTE: Made for development use, not efficient for pushing to production
 
+### Running the server
+```
+$ python app.py // Runs the server
+```
+
 ### Flask
 - Basic flask server that serves HTML templates and can access Postgres database
 - Can easily serve HTML that uses Backbone and Underscore to template pages for more customizable views
